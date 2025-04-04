@@ -1,6 +1,0 @@
-error handling //done
-
-validate inputs  //done for auth 
-
-
-validate users route to be sure that body not accept melecious code
